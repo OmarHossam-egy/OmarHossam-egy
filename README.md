@@ -53,5 +53,5 @@
 
 ---
 
-<h3 align="center">Support:</h3>
+<h3 align="center">Bye 👋:</h3>
 <p align="center">Don't Forget to See My Projects</p>
